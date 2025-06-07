@@ -17,6 +17,8 @@ npm: 10.8.2
 
 ```bash
 npm install
+
+npm run dev
 ```
 
 ---
